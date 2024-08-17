@@ -1,0 +1,244 @@
+symbols:
+Α	Alpha	most	norep
+Β	Bèta	most	norep
+Γ	Gamma	most	norep
+Δ	Delta	most	norep
+Ε	Epsilon	most	norep
+Ζ	Zèta	most	norep
+Η	Èta	most	norep
+Θ	Thèta	most	norep
+Ι	Iota	most	norep
+Κ	Kappa	most	norep
+Λ	Lambda	most	norep
+Μ	Mu	most	norep
+Ν	Nu	most	norep
+Ξ	Xi	most	norep
+Ο	Omicron	most	norep
+Π	Pi	most	norep
+Ρ	Rho	most	norep
+Σ	Sigma	most	norep
+Τ	Tau	most	norep
+Υ	Upsilon	most	norep
+Φ	Phi	most	norep
+Χ	Chi	most	norep
+Ψ	Psi	most	norep
+Ω	Omega	most	norep
+α	Alpha	most	norep
+β	Bèta	most	norep
+γ	Gamma	most	norep
+δ	Delta	most	norep
+ε	Epsilon	most	norep
+ζ	Zèta	most	norep
+η	Èta	most	norep
+θ	Thèta	most	norep
+ι	Iota	most	norep
+κ	Kappa	most	norep
+λ	Lambda	most	norep
+μ	Mu	most	norep
+ν	Nu	most	norep
+ξ	Xi	most	norep
+ο	Omicron	most	norep
+π	Pi	most	norep
+ρ	Rho	most	norep
+ς	Slot-Sigma	most	norep
+σ	Sigma	most	norep
+τ	Tau	most	norep
+υ	Upsilon	most	norep
+φ	Phi	most	norep
+χ	Chi	most	norep
+ψ	Psi	most	norep
+ω	Omega	most	norep
+ϝ	Digamma	most	norep
+ϟ	Koppa	most	norep
+ϡ	Sampi	most	norep
+᾿	Lenis	most	norep
+῾	Asper	most	norep
+΄	Tonos	most	norep
+´	Acutus	most	norep
+῀	Circumflexus	most	norep
+`	Gravis	most	norep
+ͺ	Adscriptum	most	norep
+ι	Subscriptum	most	norep
+¯	Macron	most	norep
+ϕ	Phi	most	norep
+;	Grieks vraagteken	most	norep
+·	Ano Teleia	most	norep
+᾽	Koronis	most	norep
+Ά	Alpha Tonos	most	norep
+Ά	Alpha Acutus	most	norep
+Ὰ	Alpha Gravis	most	norep
+Ᾱ	Alpha Macron	most	norep
+Ᾰ	Alpha Breve	most	norep
+Ἀ	Alpha Lenis	most	norep
+Ἄ	Alpha Lenis Acutus	most	norep
+Ἂ	Alpha Lenis Gravis	most	norep
+Ἆ	Alpha Lenis Circumflexus	most	norep
+Ἁ	Alpha Asper	most	norep
+Ἅ	Alpha Asper Acutus	most	norep
+Ἃ	Alpha Asper Gravis	most	norep
+Ἇ	Alpha Asper Circumflexus	most	norep
+Έ	Epsilon Tonos	most	norep
+Έ	Epsilon Acutus	most	norep
+Ὲ	Epsilon Gravis	most	norep
+Ἐ	Epsilon Lenis	most	norep
+Ἔ	Epsilon Lenis Acutus	most	norep
+Ἒ	Epsilon Lenis Gravis	most	norep
+Ἑ	Epsilon Asper	most	norep
+Ἕ	Epsilon Asper Acutus	most	norep
+Ἓ	Epsilon Asper Gravis	most	norep
+Ή	Èta Tonos	most	norep
+Ή	Èta Acutus	most	norep
+Ὴ	Èta Gravis	most	norep
+Ἠ	Èta Lenis	most	norep
+Ἤ	Èta Lenis Acutus	most	norep
+Ἢ	Èta Lenis Gravis	most	norep
+Ἦ	Èta Lenis Circumflexus	most	norep
+Ἡ	Èta Asper	most	norep
+Ἥ	Èta Asper Acutus	most	norep
+Ἣ	Èta Asper Gravis	most	norep
+Ἧ	Èta Asper Circumflexus	most	norep
+Ϊ	Iota Trema	most	norep
+Ί	Iota Tonos	most	norep
+Ί	Iota Acutus	most	norep
+Ὶ	Iota Gravis	most	norep
+Ῑ	Iota Macron	most	norep
+Ῐ	Iota Breve	most	norep
+Ἰ	Iota Lenis	most	norep
+Ἴ	Iota Lenis Acutus	most	norep
+Ἲ	Iota Lenis Gravis	most	norep
+Ἶ	Iota Lenis Circumflexus	most	norep
+Ἱ	Iota Asper	most	norep
+Ἵ	Iota Asper Acutus	most	norep
+Ἳ	Iota Asper Gravis	most	norep
+Ἷ	Iota Asper Circumflexus	most	norep
+Ό	Omicron Tonos	most	norep
+Ό	Omicron Acutus	most	norep
+Ὸ	Omicron Gravis	most	norep
+Ὀ	Omicron Lenis	most	norep
+Ὄ	Omicron Lenis Acutus	most	norep
+Ὂ	Omicron Lenis Gravis	most	norep
+Ὁ	Omicron Asper	most	norep
+Ὅ	Omicron Asper Acutus	most	norep
+Ὃ	Omicron Asper Gravis	most	norep
+Ῥ	Rho Asper	most	norep
+Ϋ	Upsilon Trema	most	norep
+Ύ	Upsilon Tonos	most	norep
+Ύ	Upsilon Acutus	most	norep
+Ὺ	Upsilon Gravis	most	norep
+Ῡ	Upsilon Macron	most	norep
+Ῠ	Upsilon Breve	most	norep
+Ὑ	Upsilon Asper	most	norep
+Ὕ	Upsilon Asper Acutus	most	norep
+Ὓ	Upsilon Asper Gravis	most	norep
+Ὗ	Upsilon Asper Circumflexus	most	norep
+Ώ	Omega Tonos	most	norep
+Ώ	Omega Acutus	most	norep
+Ὼ	Omega Gravis	most	norep
+Ὠ	Omega Lenis	most	norep
+Ὤ	Omega Lenis Acutus	most	norep
+Ὢ	Omega Lenis Gravis	most	norep
+Ὦ	Omega Lenis Circumflexus	most	norep
+Ὡ	Omega Asper	most	norep
+Ὥ	Omega Asper Acutus	most	norep
+Ὣ	Omega Asper Gravis	most	norep
+Ὧ	Omega Asper Circumflexus	most	norep
+ά	Alpha Tonos	most	norep
+ά	Alpha Acutus	most	norep
+ὰ	Alpha Gravis	most	norep
+ᾱ	Alpha Macron	most	norep
+ᾰ	Alpha Breve	most	norep
+ἀ	Alpha Lenis	most	norep
+ἄ	Alpha Lenis Acutus	most	norep
+ἂ	Alpha Lenis Gravis	most	norep
+ἆ	Alpha Lenis Circumflexus	most	norep
+ἁ	Alpha Asper	most	norep
+ἅ	Alpha Asper Acutus	most	norep
+ἃ	Alpha Asper Gravis	most	norep
+ἇ	Alpha Asper Circumflexus	most	norep
+έ	Epsilon Tonos	most	norep
+έ	Epsilon Acutus	most	norep
+ὲ	Epsilon Gravis	most	norep
+ἐ	Epsilon Lenis	most	norep
+ἔ	Epsilon Lenis Acutus	most	norep
+ἒ	Epsilon Lenis Gravis	most	norep
+ἑ	Epsilon Asper	most	norep
+ἕ	Epsilon Asper Acutus	most	norep
+ἓ	Epsilon Asper Gravis	most	norep
+ή	Èta Tonos	most	norep
+ή	Èta Acutus	most	norep
+ὴ	Èta Gravis	most	norep
+ἠ	Èta Lenis	most	norep
+ἤ	Èta Lenis Acutus	most	norep
+ἢ	Èta Lenis Gravis	most	norep
+ἦ	Èta Lenis Circumflexus	most	norep
+ἡ	Èta Asper	most	norep
+ἥ	Èta Asper Acutus	most	norep
+ἣ	Èta Asper Gravis	most	norep
+ἧ	Èta Asper Circumflexus	most	norep
+ϊ	Iota Trema	most	norep
+ί	Iota Tonos	most	norep
+ί	Iota Acutus	most	norep
+ὶ	Iota Gravis	most	norep
+ῑ	Iota Macron	most	norep
+ῐ	Iota Breve	most	norep
+ἰ	Iota Lenis	most	norep
+ἴ	Iota Lenis Acutus	most	norep
+ἲ	Iota Lenis Gravis	most	norep
+ἶ	Iota Lenis Circumflexus	most	norep
+ἱ	Iota Asper	most	norep
+ἵ	Iota Asper Acutus	most	norep
+ἳ	Iota Asper Gravis	most	norep
+ἷ	Iota Asper Circumflexus	most	norep
+ό	Omicron Tonos	most	norep
+ό	Omicron Acutus	most	norep
+ὸ	Omicron Gravis	most	norep
+ὀ	Omicron Lenis	most	norep
+ὄ	Omicron Lenis Acutus	most	norep
+ὂ	Omicron Lenis Gravis	most	norep
+ὁ	Omicron Asper	most	norep
+ὅ	Omicron Asper Acutus	most	norep
+ὃ	Omicron Asper Gravis	most	norep
+ῥ	Rho Asper	most	norep
+ϋ	Upsilon Trema	most	norep
+ύ	Upsilon Tonos	most	norep
+ύ	Upsilon Acutus	most	norep
+ὺ	Upsilon Gravis	most	norep
+ῡ	Upsilon Macron	most	norep
+ῠ	Upsilon Breve	most	norep
+ὑ	Upsilon Asper	most	norep
+ὕ	Upsilon Asper Acutus	most	norep
+ὓ	Upsilon Asper Gravis	most	norep
+ὗ	Upsilon Asper Circumflexus	most	norep
+ώ	Omega Tonos	most	norep
+ώ	Omega Acutus	most	norep
+ὼ	Omega Gravis	most	norep
+ὠ	Omega Lenis	most	norep
+ὤ	Omega Lenis Acutus	most	norep
+ὢ	Omega Lenis Gravis	most	norep
+ὦ	Omega Lenis Circumflexus	most	norep
+ὡ	Omega Asper	most	norep
+ὥ	Omega Asper Acutus	most	norep
+ὣ	Omega Asper Gravis	most	norep
+ὧ	Omega Asper Circumflexus	most	norep
+ᾼ	Alpha Subscriptum	most	norep
+ᾈ	Alpha Lenis Subscriptum	most	norep
+ᾌ	Alpha Lenis Acutus Subscriptum	most	norep
+ᾊ	Alpha Lenis Gravis Subscriptum	most	norep
+ᾎ	Alpha Lenis Circumflexus Subscriptum	most	norep
+ᾉ	Alpha Asper Subscriptum	most	norep
+ᾍ	Alpha Asper Acutus Subscriptum	most	norep
+ᾋ	Alpha Asper Gravis Subscriptum	most	norep
+ᾏ	Alpha Asper Circumflexus Subscriptum	most	norep
+ῌ	Èta Subscriptum	most	norep
+ᾘ	Èta Lenis Subscriptum	most	norep
+ᾜ	Èta Lenis Acutus Subscriptum	most	norep
+ᾚ	Èta Lenis Gravis Subscriptum	most	norep
+ᾞ	Èta Lenis Circumflexus Subscriptum	most	norep
+ᾙ	Èta Asper Subscriptum	most	norep
+ᾝ	Èta Asper Acutus Subscriptum	most	norep
+ᾛ	Èta Asper Gravis Subscriptum	most	norep
+ᾟ	Èta Asper Circumflexus Subscriptum	most	norep
+ῼ	Omega Subscriptum	most	norep
+ᾨ	Omega Lenis Subscriptum	most	norep
+ᾬ	Omega Lenis Acutus Subscriptum	most	norep
+ᾪ	Omega Lenis Gravis Subscriptum	most	norep

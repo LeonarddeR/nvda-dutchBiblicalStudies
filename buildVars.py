@@ -16,29 +16,28 @@ def _(arg):
 # Add-on information variables
 addon_info = {
 	# add-on Name/identifier, internal for NVDA
-	"addon_name": "addonTemplate",
+	"addon_name": "dutchBiblicalStudies",
 	# Add-on summary, usually the user visible name of the addon.
 	# Translators: Summary for this add-on
 	# to be shown on installation and add-on information found in Add-ons Manager.
-	"addon_summary": _("Add-on user visible name"),
+	"addon_summary": _("Dutch Biblical Studies"),
 	# Add-on description
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
-	"addon_description": _("""Description for the add-on.
-It can span multiple lines."""),
+	"addon_description": _("Resources for studying Biblical ancient languages for Dutch users"),
 	# version
-	"addon_version": "x.y",
+	"addon_version": "2024.1",
 	# Author(s)
-	"addon_author": "name <name@domain.com>",
+	"addon_author": "Leonard de Ruijter <alderuijter@gmail.com>",
 	# URL for the add-on documentation support
 	"addon_url": None,
 	# URL for the add-on repository where the source code can be found
-	"addon_sourceURL": None,
+	"addon_sourceURL": "https://github.com/LeonarddeR/nvda-dutchBiblicalStudies",
 	# Documentation file name
 	"addon_docFileName": "readme.html",
 	# Minimum NVDA version supported (e.g. "2018.3.0", minor version is optional)
-	"addon_minimumNVDAVersion": None,
+	"addon_minimumNVDAVersion": "2024.3",
 	# Last NVDA version supported/tested (e.g. "2018.4.0", ideally more recent than minimum version)
-	"addon_lastTestedNVDAVersion": None,
+	"addon_lastTestedNVDAVersion": "2024.4",
 	# Add-on update channel (default is None, denoting stable releases,
 	# and for development releases, use "dev".)
 	# Do not change unless you know what you are doing!
@@ -86,4 +85,21 @@ markdownExtensions = []
 # contracted (contracted (True) or uncontracted (False) braille code),
 # output (shown in output table list),
 # input (shown in input table list).
-brailleTables = {}
+brailleTables = {
+	"grc-international-nl.utb": {
+		"displayName": _("Greek International Dutch Braille")
+	}
+}
+
+# Custom speech symbol dictionaries
+# Symbol dictionary files reside in the locale folder, e.g. `locale\en`, and are named `symbols-<name>.dic`.
+# If your add-on includes custom speech symbol dictionaries (most will not), fill out this dictionary.
+# Each key is the name of the dictionary,
+# with keys inside recording the following attributes:
+# displayName (name of the table shown to users and translatable),
+# mandatory (True when always enabled, False when not.
+symbolDictionaries = {
+	"greek": {
+		"displayName": _("Polythonic Greek")
+	}
+}

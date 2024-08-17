@@ -1,4 +1,4 @@
-# NVDA Add-on Scons Template
+# Dutch Biblical Studie add-on for NVDA
 
 This package contains a basic template structure for NVDA add-on development, building, distribution and localization.
 For details about NVDA add-on development, please see the [NVDA Add-on Development Guide](https://github.com/nvdaaddons/DevGuide/wiki/NVDA-Add-on-Development-Guide).
