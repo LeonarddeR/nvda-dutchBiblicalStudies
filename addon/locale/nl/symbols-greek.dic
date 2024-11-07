@@ -1,4 +1,4 @@
-symbols:
+﻿symbols:
 Α	Alpha	most	norep
 Β	Bèta	most	norep
 Γ	Gamma	most	norep
@@ -57,8 +57,8 @@ symbols:
 ´	Acutus	most	norep
 ῀	Circumflexus	most	norep
 `	Gravis	most	norep
-ͺ	Adscriptum	most	norep
-ι	Subscriptum	most	norep
+ͺ	Subscriptum	most	norep
+ι	Adscriptum	most	norep
 ¯	Macron	most	norep
 ϕ	Phi	most	norep
 ;	Grieks vraagteken	most	norep
@@ -242,3 +242,62 @@ symbols:
 ᾨ	Omega Lenis Subscriptum	most	norep
 ᾬ	Omega Lenis Acutus Subscriptum	most	norep
 ᾪ	Omega Lenis Gravis Subscriptum	most	norep
+ᾮ	Omega Lenis Circumflexus Prosgegrammeni	most	norep
+ᾩ	Omega Asper Prosgegrammeni	most	norep
+ᾭ	Omega Asper Acutus Prosgegrammeni	most	norep
+ᾫ	Omega Asper Gravis Prosgegrammeni	most	norep
+ᾯ	Omega Asper Circumflexus Prosgegrammeni	most	norep
+ᾶ	Alpha Circumflexus	most	norep
+ᾳ	Alpha Subscriptum	most	norep
+ᾴ	Alpha Acutus Subscriptum	most	norep
+ᾲ	Alpha Gravis Subscriptum	most	norep
+ᾷ	Alpha Circumflexus Subscriptum	most	norep
+ᾀ	Alpha Lenis Subscriptum	most	norep
+ᾄ	Alpha Lenis Acutus Subscriptum	most	norep
+ᾂ	Alpha Lenis Gravis Subscriptum	most	norep
+ᾆ	Alpha Lenis Circumflexus Subscriptum	most	norep
+ᾁ	Alpha Asper Subscriptum	most	norep
+ᾅ	Alpha Asper Acutus Subscriptum	most	norep
+ᾃ	Alpha Asper Gravis Subscriptum	most	norep
+ᾇ	Alpha Asper Circumflexus Subscriptum	most	norep
+ῆ	Èta Circumflexus	most	norep
+ῃ	Èta Subscriptum	most	norep
+ῄ	Èta Acutus Subscriptum	most	norep
+ῂ	Èta Gravis Subscriptum	most	norep
+ῇ	Èta Circumflexus Subscriptum	most	norep
+ᾐ	Èta Lenis Subscriptum	most	norep
+ᾔ	Èta Lenis Acutus Subscriptum	most	norep
+ᾒ	Èta Lenis Gravis Subscriptum	most	norep
+ᾖ	Èta Lenis Circumflexus Subscriptum	most	norep
+ᾑ	Èta Asper Subscriptum	most	norep
+ᾕ	Èta Asper Acutus Subscriptum	most	norep
+ᾓ	Èta Asper Gravis Subscriptum	most	norep
+ᾗ	Èta Asper Circumflexus Subscriptum	most	norep
+ΐ	Iota Trema Tonos	most	norep
+ΐ	Iota Trema Acutus	most	norep
+ῒ	Iota Trema Gravis	most	norep
+ῖ	Iota Circumflexus	most	norep
+ῗ	Iota Trema Circumflexus	most	norep
+ῤ	Rho Lenis	most	norep
+ΰ	Upsilon Trema Tonos	most	norep
+ΰ	Upsilon Trema Acutus	most	norep
+ῢ	Upsilon Trema Gravis	most	norep
+ῦ	Upsilon Circumflexus	most	norep
+ῧ	Upsilon Trema Circumflexus	most	norep
+ὐ	Upsilon Lenis	most	norep
+ὔ	Upsilon Lenis Acutus	most	norep
+ὒ	Upsilon Lenis Gravis	most	norep
+ὖ	Upsilon Lenis Circumflexus	most	norep
+ῶ	Omega Circumflexus	most	norep
+ῳ	Omega Subscriptum	most	norep
+ῴ	Omega Acutus Subscriptum	most	norep
+ῲ	Omega Gravis Subscriptum	most	norep
+ῷ	Omega Circumflexus Subscriptum	most	norep
+ᾠ	Omega Lenis Subscriptum	most	norep
+ᾤ	Omega Lenis Acutus Subscriptum	most	norep
+ᾢ	Omega Lenis Gravis Subscriptum	most	norep
+ᾦ	Omega Lenis Circumflexus Subscriptum	most	norep
+ᾡ	Omega Asper Subscriptum	most	norep
+ᾥ	Omega Asper Acutus Subscriptum	most	norep
+ᾣ	Omega Asper Gravis Subscriptum	most	norep
+ᾧ	Omega Asper Circumflexus Subscriptum	most	norep
