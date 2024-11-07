@@ -88,6 +88,9 @@ markdownExtensions = []
 brailleTables = {
 	"grc-international-nl.utb": {
 		"displayName": _("Greek International Dutch Braille")
+	},
+	"hbo-nl.utb": {
+		"displayName": _("Biblical Hebrew Dutch Braille")
 	}
 }
 
@@ -101,5 +104,8 @@ brailleTables = {
 symbolDictionaries = {
 	"greek": {
 		"displayName": _("Polythonic Greek")
-	}
+	},
+	"hebrew": {
+		"displayName": _("Biblical Hebrew")
+	},
 }
