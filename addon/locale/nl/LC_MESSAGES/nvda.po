@@ -8,8 +8,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 'dutchBiblicalStudies' '2024.1'\n"
 "Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
-"POT-Creation-Date: 2024-08-17 15:57+0200\n"
-"PO-Revision-Date: 2024-08-17 15:58+0200\n"
+"POT-Creation-Date: 2024-11-07 16:27+0100\n"
+"PO-Revision-Date: 2024-11-07 16:28+0100\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: nl\n"
@@ -37,6 +37,14 @@ msgstr ""
 msgid "Greek International Dutch Braille"
 msgstr "Grieks Internationaal Nederlands Braille"
 
-#: buildVars.py:103
+#: buildVars.py:93
+msgid "Biblical Hebrew Dutch Braille"
+msgstr "Bijbels Hebreeuws Nederlands Braille"
+
+#: buildVars.py:106
 msgid "Polythonic Greek"
 msgstr "Polytonisch Grieks"
+
+#: buildVars.py:109
+msgid "Biblical Hebrew"
+msgstr "Bijbels Hebreeuws"
