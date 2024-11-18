@@ -87,10 +87,12 @@ markdownExtensions = []
 # input (shown in input table list).
 brailleTables = {
 	"grc-international-nl.utb": {
-		"displayName": _("Greek International Dutch Braille")
+		"displayName": _("Greek International Dutch Braille"),
+		"contracted": True,
 	},
 	"hbo-nl.utb": {
-		"displayName": _("Biblical Hebrew Dutch Braille")
+		"displayName": _("Biblical Hebrew Dutch Braille"),
+		"contracted": True,
 	}
 }
 

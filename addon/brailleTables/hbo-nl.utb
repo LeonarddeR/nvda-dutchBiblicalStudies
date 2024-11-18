@@ -1,2 +1,30 @@
-include he-chardefs.uti
+letter ך 167  # final kaf
+letter ם 1347  # final mem
+letter ן 13457  # final nun
+letter ף 1247  # final pe
+letter ץ 23467  # final tsadi
+
+include he-common.uti
+
+letter	ˀ	18
+letter	ḇ	12368
+letter ḡ 12458
+letter ḏ 1458
+letter ḥ 13468
+letter ṭ 23458
+letter ḵ 168
+letter ˁ 12468
+always p̄ 1248
+letter ṣ 23468
+letter ś 1568
+letter š 1468
+letter ṯ 14568
+letter å 1268
+letter ɛ 158
+letter έ 158
+
+punctuation ֫ 4
+
+replace ‏
+
 include nl-comp8.utb
