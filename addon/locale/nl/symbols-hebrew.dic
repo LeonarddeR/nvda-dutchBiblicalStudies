@@ -49,12 +49,12 @@
 ףּ	Slot-Pe Dagesh	most	norep
 פּ	Pe Dagesh	most	norep
 תּ	Tav Dagesh	most	norep
-֒	segol geïsoleerd	most	norep
-֓	shalshelet	most	norep
-֔	zaqef qatan	most	norep
-֕	zaqef gadol	most	norep
-֖	tipeha	most	norep
-֗	revia	most	norep
+֒	accent segolta	most	norep
+֓	accent shalshelet	most	norep
+֔	accent zaqef qatan	most	norep
+֕	accent zaqef gadol	most	norep
+֖	accent tifha	most	norep
+֗	accent revia	most	norep
 ֘	zarqa	most	norep
 ֙	pashta	most	norep
 ֚	yetiv	most	norep
@@ -67,9 +67,9 @@
 ֡	pazer	most	norep
 ֢	atnah hafukh	most	norep
 ֣	munah	most	norep
-֤	mahapakh	most	norep
+֤	mhuppak	most	norep
 ֥	merkha	most	norep
-֦	merkha kefula	most	norep
+֦	dubbele merkha	most	norep
 ֧	darga	most	norep
 ֨	qadma	most	norep
 ֩	telisha qetana	most	norep
@@ -90,3 +90,8 @@
 ײ	dubbele jod	most	norep
 ׳	geresh	most	norep
 ײַ	dubbele jod patach	most	norep
+֑	accent atnah	most	norep
+־	maqaf	most	norep
+׀	paseq	most	norep
+׃	sof pasuq	most	norep
+״	dubbele geresh	most	norep
