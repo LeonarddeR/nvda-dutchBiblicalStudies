@@ -8,15 +8,15 @@ msgid ""
 msgstr ""
 "Project-Id-Version: 'dutchBiblicalStudies' '2024.1'\n"
 "Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
-"POT-Creation-Date: 2024-11-07 16:27+0100\n"
-"PO-Revision-Date: 2024-11-07 16:28+0100\n"
+"POT-Creation-Date: 2025-07-05 16:10+0200\n"
+"PO-Revision-Date: 2025-07-05 16:11+0200\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.6\n"
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on
@@ -37,14 +37,18 @@ msgstr ""
 msgid "Greek International Dutch Braille"
 msgstr "Grieks Internationaal Nederlands Braille"
 
-#: buildVars.py:93
+#: buildVars.py:94
 msgid "Biblical Hebrew Dutch Braille"
 msgstr "Bijbels Hebreeuws Nederlands Braille"
 
-#: buildVars.py:106
+#: buildVars.py:98
+msgid "Biblical Hebrew Dutch Braille with cantillation"
+msgstr "Bijbels Hebreeuws Nederlands Braille met cantillatie"
+
+#: buildVars.py:112
 msgid "Polythonic Greek"
 msgstr "Polytonisch Grieks"
 
-#: buildVars.py:109
+#: buildVars.py:115
 msgid "Biblical Hebrew"
 msgstr "Bijbels Hebreeuws"
