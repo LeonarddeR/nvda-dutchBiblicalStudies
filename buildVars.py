@@ -25,7 +25,7 @@ addon_info = {
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 	"addon_description": _("Resources for studying Biblical ancient languages for Dutch users"),
 	# version
-	"addon_version": "2024.2",
+	"addon_version": "2025.1",
 	# Author(s)
 	"addon_author": "Leonard de Ruijter <alderuijter@gmail.com>",
 	# URL for the add-on documentation support
@@ -35,9 +35,9 @@ addon_info = {
 	# Documentation file name
 	"addon_docFileName": "readme.html",
 	# Minimum NVDA version supported (e.g. "2018.3.0", minor version is optional)
-	"addon_minimumNVDAVersion": "2024.4",
+	"addon_minimumNVDAVersion": "2025.2",
 	# Last NVDA version supported/tested (e.g. "2018.4.0", ideally more recent than minimum version)
-	"addon_lastTestedNVDAVersion": "2025.1",
+	"addon_lastTestedNVDAVersion": "2025.2",
 	# Add-on update channel (default is None, denoting stable releases,
 	# and for development releases, use "dev".)
 	# Do not change unless you know what you are doing!
@@ -93,7 +93,11 @@ brailleTables = {
 	"hbo-nl.utb": {
 		"displayName": _("Biblical Hebrew Dutch Braille"),
 		"contracted": True,
-	}
+	},
+	"hbo-nl-cantillated.utb": {
+		"displayName": _("Biblical Hebrew Dutch Braille with cantillation"),
+		"contracted": True,
+	},
 }
 
 # Custom speech symbol dictionaries
