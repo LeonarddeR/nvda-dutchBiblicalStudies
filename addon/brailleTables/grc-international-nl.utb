@@ -1,4 +1,7 @@
 letter	\x03C2	2348	# ς Small Final Sigma
+replace \x02d9 \x0387  # High dot
+replace \x02bc \x1fbd  # Bad apostrophe
+replace \x043e \x03bf # Bad omicron
 
 include grc-international-decomposed.uti
 include critical-apparatus-na28.uti
