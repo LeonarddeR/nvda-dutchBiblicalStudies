@@ -1,4 +1,5 @@
 letter	\x03C2	2348	# ς Small Final Sigma
 
 include grc-international-decomposed.uti
+include critical-apparatus-na28.uti
 include nl-comp8.utb

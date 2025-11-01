@@ -1,3 +1,4 @@
 include hbo-finals.uti
-include he-common.uti
+include hbo-ihbc-rules.uti
+include critical-apparatus.uti
 include hbo-nl.uti

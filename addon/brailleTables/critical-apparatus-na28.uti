@@ -1,0 +1,58 @@
+# liblouis: Critical Apparatus NA28
+
+#-license: lgpl-2.1
+
+# This file is free software; you can redistribute it and/or
+# modify it under the terms of the GNU Lesser General Public
+# License as published by the Free Software Foundation; either
+# version 2.1 of the License, or (at your option) any later version.
+#
+# This file is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+# Lesser General Public License for more details.
+#
+# You should have received a copy of the GNU Lesser General Public
+# License along with this file; if not, write to the Free Software
+# Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+# liblouis  comes with ABSOLUTELY NO WARRANTY.
+
+# This file contains braille representation for several signs in
+# the Novum Testamentum Graece (NA28) critical apparatus.
+# Source: https://evangelicaltextualcriticism.blogspot.com/2014/12/nt-textual-criticism-signs.html
+# Braille representations by Leonard de Ruijter
+
+#-copyright: 2025, Marco Rotman
+#-copyright: 2025, Vincent van Altena
+#-copyright: 2025, Leonard de Ruijter
+
+#-maintainer: Leonard de Ruijter
+#-author: leonard de Ruijter
+
+sign \xe310 4568-25	#  Alternative punctuation (or : 003A)
+sign \x0085 4568-2568	#  Text of edition same as variant
+sign \x271D 4568-16	# ✝ Change in NA from NA25 (Latin Cross)
+sign \x27E6 4568-15	# ⟦ Early addition authenticity denied opening
+sign \x27E7 15-1237	# ⟧ Early addition authenticity denied closing
+sign \x2E00 4568-1235	# ⸀ Following word replaced
+sign \x2E01 4568-12358	# ⸁ Following word replaced recurrence
+sign \x2E02 12378-1235	# ⸂ Following words replaced opening
+sign \x2E03 1235-45678	# ⸃ Following words replaced closing
+sign \x2E04 12378-12358	# ⸄ Replacement recurrence opening
+sign \x2E05 12358-45678	# ⸅ Replacement recurrence closing
+sign \x2E06 4568-24	# ⸆ One or more words inserted
+sign \x2E07 4568-248	# ⸇ Insertion recurrence
+sign \x2E08 4568-2345	# ⸈ Transposition as indicated in apparatus
+sign \x2E09 12378-2345	# ⸉ Transposition in quoted witnesses opening
+sign \x2E0A 2345-45678	# ⸊ Transposition in quoted witnesses closing
+sign \x2E0B 123478-135	# ⸋ Words, clauses, sentences omitted opening
+sign \x2E0C 135-45678	# ⸌ Words, clauses, sentences omitted closing
+sign \x0192 4568-124	# ƒ Family
+sign \x210C 4568-1257	# ℌ Hebrew Bible
+sign \x2135 4568-1	# ℵ Codex Sinaiticus
+sign \x05D0 4568-1	# א Codex Sinaiticus
+sign \x03DA 4568-2347-23457	# Ϛ Stephanus in Eusebius’ letter to Carpian
+sign \y1D50A 4568-12457	# 𝔊 Septuagint (PUA E316 In SBL BibLit) 
+sign \y1D459 4568-123	# 𝑙 Lectionary
+sign \y1D52a 4568-134	# 𝔐 Majority Text
+sign \y1D513 4568-12347	# 𝔓 Papyrus
